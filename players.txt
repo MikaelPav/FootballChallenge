@@ -1,0 +1,16 @@
+Messi,4,800,36
+Ronaldo,5,850,39
+Mbappe,1,300,26
+Haaland,0,200,24
+Neymar,1,400,32
+Modric,5,150,38
+Kroos,5,100,35
+Lewandowski,0,600,35
+Salah,1,350,32
+Benzema,5,400,36
+Xavi,4,90,43
+Iniesta,4,70,40
+Zidane,1,125,52
+Henry,1,360,47
+Ronaldinho,1,200,44
+Suarez,1,500,37
