@@ -1,7 +1,7 @@
 Messi,4,800,36
 Ronaldo,5,850,39
 Mbappe,1,300,26
-Haaland,0,200,24
+Haaland,1,200,24
 Neymar,1,400,32
 Modric,5,150,38
 Kroos,5,100,35
